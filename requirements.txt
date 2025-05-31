@@ -1,0 +1,4 @@
+flask
+transformers
+torch
+# Add 'accelerate' if you plan to use larger models or features that benefit from it.
